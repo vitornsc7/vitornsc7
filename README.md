@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou de Florianópolis (SC), estudante de Análise e Desenvolvimento de Sistemas. Atualmente, trabalho na Câmara dos Vereadores, prestando apoio na criação de conteúdos para redes sociais, pesquisa de dados em sistemas e suporte técnico a um gabinete.<br><br>Tenho domínio em JavaScript, HTML5, CSS, Java e MySQL e React. Também utilizo Figma e Photoshop para design gráfico.</p>
+<p align="left">Sou de Florianópolis (SC), estudante de Análise e Desenvolvimento de Sistemas. Atualmente, trabalho na Câmara dos Vereadores, prestando apoio na criação de conteúdos para redes sociais, pesquisa de dados em sistemas e suporte técnico a um gabinete.<br><br>Tenho domínio em JavaScript, HTML5, CSS, Java, MySQL e React. Também utilizo Figma e Photoshop para design gráfico.</p>
 
 ###
 
